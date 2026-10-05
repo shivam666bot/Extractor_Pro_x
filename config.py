@@ -12,15 +12,15 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "8309873942:AAHKpbr7GhXOiupMfpdBeNSsF2jB
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@extract_txt_new_bot")
 BOT_TEXT = "℘ཞıŋƈɛ℘ıą"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "59388712"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6409537407"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-10037678927"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1004460759743"))
 
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003766078927")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://princepiax:princea45@cluster0.4kn7hq0.mongodb.net/?appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://Kaaliax:Shivam@666@cluster0.vyjn8yc.mongodb.net/?appName=Cluster0")
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-10037660927"))
 # -----------------------------------------------
